@@ -108,7 +108,7 @@ input[type="reset"]:hover {
 #foto_perfil {
     width: 150px;
     height: 150px;
-    border: 5px solid #fff;
+    border: 5px solid #1D495F;
     border-radius: 100px;
     box-shadow: 0px 0px 5px #ccc;
     position: absolute;
@@ -120,13 +120,14 @@ figcaption {
 }
 
 header h1 {
-    font-size: 2rem;
-    color: black;
+    font-size: 3rem;
+    color: #e4e4e4;
+    border-color: #191919;
 }
 
 header {
     height: 350px;
-    background: #ececec;
+    background: #242323c0;
     border-radius: 8px;
     box-shadow: 0px 0px 5px #ccc;
     padding: 20px;
@@ -150,11 +151,11 @@ blockquote {
     line-height: 2rem;
     margin-top: 10px;
     margin-left: 1.5rem;
-    font-size: 1rem;
+    font-size: 2rem;
 }
  
 .localizacao {
-    color: #222;
+    color: rgb(255, 255, 255);
 }
 #menu_top {
     float: right;
@@ -164,7 +165,7 @@ blockquote {
     background: #1D495F;
     color: #fff;
     text-decoration: none;
-    padding: 5px 10px;
+    padding: 10px 20px;
     border-radius: 15px;
 }
 
@@ -174,7 +175,7 @@ blockquote {
 
 section {
     width: 100%;
-    background: #ececec;
+    background: #242323c0;
     padding: 1.5rem;
     border-radius: 8px;
 }
@@ -201,8 +202,8 @@ article li {
 }
 
 #info-contatos h3 {
-    font-size: 1rem;
-    margin-top: 1rem;
+    font-size: 2rem;
+    margin-top: 2rem;
 }
 
 #info-contatos p {
