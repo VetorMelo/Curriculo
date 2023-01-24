@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,300;8..144,400;8..144,700&display=swap');
 
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+    }
 
 * {
     margin: 0;
@@ -165,7 +168,7 @@ blockquote {
 }
 #menu_top {
     float: right;
-
+    margin-inline-end: 10px;
 }
 #menu_top a {
     background: #1D495F;
