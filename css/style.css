@@ -29,7 +29,7 @@ img {
 }
 
 h1 {
-    margin-bottom: 1px;
+    margin-bottom: -100px;
     padding: 2px;
 }
 
@@ -95,7 +95,6 @@ input[type="reset"]:hover {
 
 @media (max-width: 720px) {
     #tela_perfil
-    
 }
 
 #tela_perfil h1 {
@@ -136,7 +135,7 @@ header {
     background: #242323c0;
     border-radius: 8px;
     box-shadow: 0px 0px 2px #ccc;
-    padding:5px;
+    padding: 70px;
     position: relative;
     margin-bottom: 5px;
 }
@@ -185,8 +184,9 @@ blockquote {
 section {
     width: 100%;
     background: #242323c0;
-    padding: 1.5rem;
+    padding: 10px;
     border-radius: 8px;
+    margin-top: 80px;
 }
 
 article {
