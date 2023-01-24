@@ -29,7 +29,7 @@ img {
 }
 
 h1 {
-    margin-bottom: -100px;
+    margin-bottom: 1px;
     padding: 2px;
 }
 
@@ -135,14 +135,14 @@ header {
     background: #242323c0;
     border-radius: 8px;
     box-shadow: 0px 0px 2px #ccc;
-    padding: 58px;
+    padding:5px;
     position: relative;
     margin-bottom: 5px;
 }
 
 #dados {
     width: 100%;
-    margin-top: 139px;
+    margin-top: 140px;
 }
 
 blockquote {
@@ -186,7 +186,6 @@ section {
     background: #242323c0;
     padding: 10px;
     border-radius: 8px;
-    margin-top: 80px;
 }
 
 article {
