@@ -18,6 +18,7 @@
 
 figure, h1 {
     text-align: center;
+    padding: 10px;
 }
 
 img {
@@ -83,27 +84,27 @@ input[type="reset"]:hover {
 #tela_perfil{
     width: 720px;
     height: 100vh;
-    font-size: 1.25rem;
+    font-size: 1px;
     margin: 0 auto;
     color: #191919;
 }
 
 @media (max-width: 720px) {
-    #tela_perfil 
+    #tela_perfil
     width: 90%;
 }
 
-    #tela_perfil h1 {
+#tela_perfil h1 {
         font-size: 1.25rem;
-    }
+}
 
-    #tela_perfil {
+#tela_perfil {
         top: 10px;
-    }
+}
 
-    .localizacao, #menu_top a {
+.localizacao, #menu_top a {
         font-size: 0.75rem;
-    }
+}
 
 #foto_perfil {
     width: 150px;
@@ -115,6 +116,7 @@ input[type="reset"]:hover {
     top: 20px;
     left: 20px;
 }
+
 figcaption {
     display: none;
 }
