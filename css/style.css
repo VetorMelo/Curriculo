@@ -92,7 +92,7 @@ input[type="reset"]:hover {
 
 @media (max-width: 720px) {
     #tela_perfil
-    width: 90%;
+    
 }
 
 #tela_perfil h1 {
@@ -141,7 +141,7 @@ header {
 #dados {
     width: 100%;
     margin-top: 120px;
-    border: solid red;
+    @media (max-width:767px)
 }
 
 blockquote {
