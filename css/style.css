@@ -123,7 +123,7 @@ figcaption {
 }
 
 header h1 {
-    font-size: 3rem;
+    font-size: 50px;
     color: #e4e4e4;
     border-color: #191919;
 }
@@ -132,21 +132,24 @@ header {
     height: 350px;
     background: #242323c0;
     border-radius: 8px;
-    box-shadow: 0px 0px 5px #ccc;
+    box-shadow: 0px 0px 2px #ccc;
     padding: 20px;
     position: relative;
-    margin-bottom: 1rem;
+    margin-bottom: 5px;
 }
 
 #dados {
     width: 100%;
-    margin-top: 120px;
+    margin-top: 90px;
 }
 
 blockquote {
     background: #fff;
-    padding: 1.5rem;
-    border-radius: 5px;
+    padding: 20px;
+    border-radius: 4px;
+    @media screen {
+        padding: auto;
+    }
 
 }
 
