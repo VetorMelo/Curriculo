@@ -155,10 +155,10 @@ blockquote {
 }
 
 #locais {
-    line-height: 2rem;
-    margin-top: 10px;
-    margin-left: 1.5rem;
-    font-size: 2rem;
+    line-height: 60px;
+    margin-top: 15px;
+    margin-left: 1px;
+    font-size: 30px;
 }
  
 .localizacao {
