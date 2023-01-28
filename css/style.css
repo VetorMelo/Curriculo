@@ -125,7 +125,6 @@ figcaption {
 }
 
 header h1 {
-    border: solid red;
     color: #e4e4e4;
     border-color: #191919;
 }
@@ -141,8 +140,9 @@ header {
 }
 
 #dados {
+    border: solid red;
     width: 100%;
-    margin-top: 135px;
+    margin-top: 200px;
 }
 
 blockquote {
