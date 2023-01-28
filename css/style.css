@@ -125,17 +125,21 @@ figcaption {
 }
 
 header h1 {
-    font-size: 50px;
+    border: solid red;
+    @media (max-width: 480px) {
+        display: inline-flexbox;
+        font-size: 50px;
+    }
     color: #e4e4e4;
     border-color: #191919;
 }
 
 header {
-    height: 350px;
+    height: 450px;
     background: #242323c0;
     border-radius: 8px;
     box-shadow: 0px 0px 2px #ccc;
-    padding:5px;
+    padding:25px;
     position: relative;
     margin-bottom: 10px;
 }
