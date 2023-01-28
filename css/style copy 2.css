@@ -203,6 +203,7 @@ article {
 }
 
 article h2, #info-contatos h2 {
+    margin-top: 10px;
     font-size: 1.85rem;
     margin-bottom: 1rem;
 }
