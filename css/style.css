@@ -106,17 +106,17 @@ input[type="reset"]:hover {
 }
 
 .localizacao, #menu_top a {
-        font-size: 15px;
+    font-size: 15px;
 }
 
 #foto_perfil {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border: 5px solid #1D495F;
     border-radius: 100px;
     box-shadow: 0px 0px 5px #ccc;
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 20px;
 }
 
@@ -137,12 +137,12 @@ header {
     box-shadow: 0px 0px 2px #ccc;
     padding:5px;
     position: relative;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 #dados {
     width: 100%;
-    margin-top: 140px;
+    margin-top: 135px;
 }
 
 blockquote {
@@ -167,13 +167,13 @@ blockquote {
 }
 #menu_top {
     float: right;
-    margin-inline-end: 10px;
+    margin-inline-end: 15px;
 }
 #menu_top a {
     background: #1D495F;
     color: #fff;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 10px 20px  ;
     border-radius: 15px;
 }
 
@@ -206,11 +206,11 @@ article ul, article ol {
 }
 
 article li {
-    line-height: 2.5rem;
+    line-height: 30px;
 }
 
 #info-contatos h3 {
-    font-size: 2rem;
+    font-size: 20px;
     margin-top: 2rem;
 }
 
@@ -225,7 +225,7 @@ article li {
 }
 
 #rodape {
-    margin-top: 1rem;
+    margin-top: 5px;
     background: #ececec;
     padding: 1.5rem;
     border-radius: 8px;
@@ -233,7 +233,7 @@ article li {
 }
 
 #menu_rodape {
-    padding: 2rem;
+    padding: 40px;
 }
 
 #menu_rodape ul li {
@@ -249,7 +249,7 @@ article li {
 
 #menu_rodape a:hover {
     text-decoration: underline;
-    background: #fff;
+    background: rgb(2, 188, 235);
 }
 
 footer p {
